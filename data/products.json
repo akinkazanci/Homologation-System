@@ -202,7 +202,7 @@
   },
   {
     "code": "250 Series",
-    "family": "series-250",
+    "family": "radio-dab",
     "description": "250 Series — SPS, MCA & MY250",
     "certificates": [
       {
@@ -670,8 +670,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-11-01",
         "expiryDate": "2028-10-31",
-        "fileName": "M_P_3000_Series_Car_Multimedia_System_Devices.pdf",
-        "fileSize": "1.5 MB"
+        "fileName": "M&P 3000 Series Car Multimedia System Devices.pdf",
+        "fileSize": "278.3 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-17T06:13:40.345Z",
+        "storedFileId": "cert-54-1786947220339.pdf",
+        "storedFileUrl": "/uploads/cert-54-1786947220339.pdf",
+        "storedFileHash": "b15eeb18fb00432fcd784eff706129f77a69872876f54a3c62d3292f82cf363a"
       },
       {
         "id": "cert-55",
@@ -680,8 +685,13 @@
         "type": "Ukraine",
         "issueDate": "2023-11-10",
         "expiryDate": "2028-11-09",
-        "fileName": "Ukraine_Certificate_M_P_3000_Series_Devices.pdf",
-        "fileSize": "1.2 MB"
+        "fileName": "Ukraine · Ukraine Certificate — M&P 3000 Series Devices (Ukraine).pdf",
+        "fileSize": "1.0 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-17T06:14:08.553Z",
+        "storedFileId": "cert-55-1786947248546.pdf",
+        "storedFileUrl": "/uploads/cert-55-1786947248546.pdf",
+        "storedFileHash": "33e70d78f5fdcf50bc3171233c8c0020bce34a9837618aac0e74022e62402ec8"
       }
     ]
   },
@@ -697,8 +707,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-02-01",
         "expiryDate": "2028-01-31",
-        "fileName": "CAR_GPS_Antenna_Document.pdf",
-        "fileSize": "0.6 MB"
+        "fileName": "Car-GPS_antenna-signed.pdf",
+        "fileSize": "257.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-17T05:58:57.126Z",
+        "storedFileId": "cert-56-1786946337119.pdf",
+        "storedFileUrl": "/uploads/cert-56-1786946337119.pdf",
+        "storedFileHash": "8c4992952006f96fa1b660daf92801e137c4bb20e3dc4b5ece5cfb7d4a57d4f7"
       }
     ]
   },
@@ -714,8 +729,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-02-05",
         "expiryDate": "2028-02-04",
-        "fileName": "Self_Declaration_GNSS_Antenna_English.pdf",
-        "fileSize": "0.6 MB"
+        "fileName": "Self Declaration — GNSS Antenna (English).pdf",
+        "fileSize": "210.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-17T06:06:30.816Z",
+        "storedFileId": "cert-57-1786946790809.pdf",
+        "storedFileUrl": "/uploads/cert-57-1786946790809.pdf",
+        "storedFileHash": "bd44c17a450327ecf521f964d5f728f89b4b9178533efe6e7036f35296919536"
       },
       {
         "id": "cert-58",
@@ -724,8 +744,13 @@
         "type": "Ukraine",
         "issueDate": "2023-02-05",
         "expiryDate": "2028-02-04",
-        "fileName": "Self_Declaration_GNSS_Antenna_Ukrainian.pdf",
-        "fileSize": "0.6 MB"
+        "fileName": "Self Declaration — GNSS Antenna (Ukrainian).pdf",
+        "fileSize": "246.9 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-17T06:06:36.793Z",
+        "storedFileId": "cert-58-1786946796785.pdf",
+        "storedFileUrl": "/uploads/cert-58-1786946796785.pdf",
+        "storedFileHash": "52459b4b584090fc904f8fe081b09ae6af0627edbc173f2ccbdab131a0ace40c"
       }
     ]
   }
