@@ -11,7 +11,6 @@ import type { Product, ProductFamily } from "./types"
 /** Human-readable family names shown in tabs and headings. */
 export const familyLabels: Record<ProductFamily, string> = {
   "radio-dab": "Radio",
-  "series-250": "250 Series (SPS / MCA / MY250)",
   a7: "Multimedia & Navigation",
   "smart-audio": "Smart Audio Systems",
   multimedia: "In-Vehicle Multimedia",
@@ -21,7 +20,6 @@ export const familyLabels: Record<ProductFamily, string> = {
 /** Short badge labels shown on product cards. */
 export const familyShort: Record<ProductFamily, string> = {
   "radio-dab": "DAB",
-  "series-250": "250",
   a7: "A7",
   "smart-audio": "AUDIO",
   multimedia: "M&P",
@@ -31,7 +29,6 @@ export const familyShort: Record<ProductFamily, string> = {
 /** Display order of families. */
 export const FAMILY_ORDER: ProductFamily[] = [
   "radio-dab",
-  "series-250",
   "a7",
   "smart-audio",
   "multimedia",
@@ -88,7 +85,7 @@ export const products: Product[] = [
   // 2. 250 Series (SPS, MCA & MY250)
   {
     code: "250 Series",
-    family: "series-250",
+    family: "radio-dab",
     description: "250 Series — SPS, MCA & MY250",
     certificates: [
       cert("EU Declaration of Conformity — 250 SPS (Smart Audio 2.0)", "EU", "EU DoC", "2023-09-01", "2028-08-31", "1.2 MB"),
