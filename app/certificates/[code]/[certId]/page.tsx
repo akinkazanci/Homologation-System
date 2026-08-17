@@ -68,6 +68,16 @@ export default function CertificatePreviewPage() {
   const router = useRouter()
   const { products } = useCertificates()
 
+  // Certificates UI is temporarily hidden — redirect direct access to the products page.
+  // This prevents the certificates preview route from being used while the feature is hidden.
+  useEffect(() => {
+    // replace so browser history doesn't keep the /certificates URL
+    router.replace('/')
+  }, [router])
+
+  // Do not render the certificate preview UI when hidden
+  return null
+
   const [downloading, setDownloading] = useState(false)
   const [downloadMsg, setDownloadMsg] = useState<
     | { kind: "success" | "error"; text: string }
