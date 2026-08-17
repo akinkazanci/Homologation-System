@@ -12,7 +12,6 @@ import type { Product, ProductFamily } from "./types"
 export const familyLabels: Record<ProductFamily, string> = {
   "radio-dab": "Radio",
   a7: "Multimedia & Navigation",
-  "smart-audio": "Smart Audio Systems",
   multimedia: "In-Vehicle Multimedia",
   antenna: "Antenna Systems",
 }
@@ -21,7 +20,6 @@ export const familyLabels: Record<ProductFamily, string> = {
 export const familyShort: Record<ProductFamily, string> = {
   "radio-dab": "DAB",
   a7: "A7",
-  "smart-audio": "AUDIO",
   multimedia: "M&P",
   antenna: "GNSS",
 }
@@ -30,7 +28,6 @@ export const familyShort: Record<ProductFamily, string> = {
 export const FAMILY_ORDER: ProductFamily[] = [
   "radio-dab",
   "a7",
-  "smart-audio",
   "multimedia",
   "antenna",
 ]
@@ -158,7 +155,7 @@ export const products: Product[] = [
   // 4. Smart Audio Systems
   {
     code: "D001SF",
-    family: "smart-audio",
+    family: "radio-dab",
     description: "Smart Audio Device",
     certificates: [
       cert("CE Certificate — D001SF (Smart Audio Device)", "EU", "CE", "2023-04-10", "2028-04-09", "1.1 MB"),
@@ -169,7 +166,7 @@ export const products: Product[] = [
   },
   {
     code: "846DAB",
-    family: "smart-audio",
+    family: "radio-dab",
     description: "846DAB Audio",
     certificates: [
       cert("Self Declaration — 846DAB Audio", "Global", "Self Declaration", "2023-05-01", "2028-04-30", "0.7 MB"),
@@ -179,7 +176,7 @@ export const products: Product[] = [
   },
   {
     code: "139LE",
-    family: "smart-audio",
+    family: "radio-dab",
     description: "139LE Panda (ICS0705)",
     certificates: [
       cert("EU Declaration of Conformity — 139LE Panda (ICS0705)", "EU", "EU DoC", "2023-03-01", "2028-02-29", "1.2 MB"),

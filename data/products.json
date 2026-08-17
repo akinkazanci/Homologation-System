@@ -554,7 +554,7 @@
   },
   {
     "code": "D001SF",
-    "family": "smart-audio",
+    "family": "radio-dab",
     "description": "Smart Audio Device",
     "certificates": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "code": "846DAB",
-    "family": "smart-audio",
+    "family": "radio-dab",
     "description": "846DAB Audio",
     "certificates": [
       {
@@ -638,7 +638,7 @@
   },
   {
     "code": "139LE",
-    "family": "smart-audio",
+    "family": "radio-dab",
     "description": "139LE Panda (ICS0705)",
     "certificates": [
       {
