@@ -10,12 +10,12 @@ import type { Product, ProductFamily } from "./types"
 
 /** Human-readable family names shown in tabs and headings. */
 export const familyLabels: Record<ProductFamily, string> = {
-  "radio-dab": "Radio DAB MY24",
+  "radio-dab": "Radio",
   "series-250": "250 Series (SPS / MCA / MY250)",
-  a7: "A7 Multimedia & Navigation",
+  a7: "Multimedia & Navigation",
   "smart-audio": "Smart Audio Systems",
   multimedia: "In-Vehicle Multimedia",
-  antenna: "Antenna Systems (GPS / GNSS)",
+  antenna: "Antenna Systems",
 }
 
 /** Short badge labels shown on product cards. */
