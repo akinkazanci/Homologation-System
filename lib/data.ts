@@ -12,7 +12,6 @@ import type { Product, ProductFamily } from "./types"
 export const familyLabels: Record<ProductFamily, string> = {
   "radio-dab": "Radio",
   a7: "Multimedia & Navigation",
-  multimedia: "In-Vehicle Multimedia",
   antenna: "Antenna Systems",
 }
 
@@ -20,7 +19,6 @@ export const familyLabels: Record<ProductFamily, string> = {
 export const familyShort: Record<ProductFamily, string> = {
   "radio-dab": "DAB",
   a7: "A7",
-  multimedia: "M&P",
   antenna: "GNSS",
 }
 
@@ -28,7 +26,6 @@ export const familyShort: Record<ProductFamily, string> = {
 export const FAMILY_ORDER: ProductFamily[] = [
   "radio-dab",
   "a7",
-  "multimedia",
   "antenna",
 ]
 
@@ -186,13 +183,14 @@ export const products: Product[] = [
   // 5. In-Vehicle Multimedia Systems
   {
     code: "M&P 3000",
-    family: "multimedia",
+    family: "a7",
     description: "M&P 3000 Series — M3001, M3002, M3003, M3004, P3000 A5",
     certificates: [
       cert("M&P 3000 Series Car Multimedia System Devices", "Global", "Self Declaration", "2023-11-01", "2028-10-31", "1.5 MB"),
       cert("Ukraine Certificate — M&P 3000 Series Devices", "Ukraine", "Ukraine", "2023-11-10", "2028-11-09", "1.2 MB"),
     ],
   },
+
 
   // 6. Antenna Systems (GPS / GNSS)
   {
