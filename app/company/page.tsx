@@ -1,6 +1,6 @@
-import { CompanyCertificates } from "@/components/company-certificates"
-import { SiteFooter } from "@/components/site-footer"
-import { SiteHeader } from "@/components/site-header"
+import { CompanyCertificates } from "@/components/company-certificates/CompanyCertificates"
+import { SiteFooter } from "@/components/site-footer/SiteFooter"
+import { SiteHeader } from "@/components/site-header/SiteHeader"
 
 export const metadata = {
   title: "Company — Daiichi Infotainment Systems",

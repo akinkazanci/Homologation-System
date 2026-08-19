@@ -11,8 +11,13 @@
         "type": "EU DoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "EU_Declaration_of_Conformity_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "1.3 MB"
+        "fileName": "EU DoC · EU Declaration of Conformity — Radio DAB MY24 Daily Variant (EU).pdf",
+        "fileSize": "330.7 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:36:03.277Z",
+        "storedFileId": "cert-1-1787124963272.pdf",
+        "storedFileUrl": "/uploads/cert-1-1787124963272.pdf",
+        "storedFileHash": "5e8f5f7a0946df879e31459176b94cf430786bb6220d3a7e465be6f9b29b70b8"
       },
       {
         "id": "cert-2",
@@ -21,8 +26,13 @@
         "type": "SDoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "Supplier_s_Declaration_of_Conformity_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "0.9 MB"
+        "fileName": "SDoC · Supplier's Declaration of Conformity — Radio DAB MY24 Daily Variant (EU).pdf",
+        "fileSize": "168.9 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:35:40.698Z",
+        "storedFileId": "cert-2-1787124940690.pdf",
+        "storedFileUrl": "/uploads/cert-2-1787124940690.pdf",
+        "storedFileHash": "403fda91d90802fd6323172e0a0e317ea7a63c9a79e56dc1a8fed2b0b23f0759"
       },
       {
         "id": "cert-3",
@@ -31,8 +41,13 @@
         "type": "CE",
         "issueDate": "2024-02-08",
         "expiryDate": "2029-02-07",
-        "fileName": "CE_Certificate_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — Radio DAB MY24 Daily Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:35:26.852Z",
+        "storedFileId": "cert-3-1787124926844.pdf",
+        "storedFileUrl": "/uploads/cert-3-1787124926844.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-4",
@@ -41,8 +56,13 @@
         "type": "E Mark",
         "issueDate": "2024-02-10",
         "expiryDate": "2029-02-09",
-        "fileName": "E_Mark_Certificate_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — Radio DAB MY24 Daily Variant (UNECE).pdf",
+        "fileSize": "5.3 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:35:13.565Z",
+        "storedFileId": "cert-4-1787124913552.pdf",
+        "storedFileUrl": "/uploads/cert-4-1787124913552.pdf",
+        "storedFileHash": "64aeb2476a73010fc14d95225afcbcbd916f0a378518379e070c3847e9f1eb47"
       },
       {
         "id": "cert-5",
@@ -51,8 +71,13 @@
         "type": "RED",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "RED_Certificate_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "RED · RED Certificate — Radio DAB MY24 Daily Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:34:57.691Z",
+        "storedFileId": "cert-5-1787124897684.pdf",
+        "storedFileUrl": "/uploads/cert-5-1787124897684.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-6",
@@ -61,8 +86,13 @@
         "type": "WEEE",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "WEEE_Certificate_Radio_DAB_MY24_Daily_Variant.pdf",
-        "fileSize": "0.5 MB"
+        "fileName": "WEEE · WEEE Certificate — Radio DAB MY24 Daily Variant (EU).pdf",
+        "fileSize": "961.7 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:34:41.203Z",
+        "storedFileId": "cert-6-1787124881194.pdf",
+        "storedFileUrl": "/uploads/cert-6-1787124881194.pdf",
+        "storedFileHash": "2fb6d2d1c87a01dbef4c103450e7659dc1c7341ca46b720b40b407e48812368c"
       }
     ]
   },
@@ -78,8 +108,13 @@
         "type": "EU DoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "EU_Declaration_of_Conformity_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "1.3 MB"
+        "fileName": "EU DoC · EU Declaration of Conformity — Radio DAB MY24 Eurocargo Variant (EU).pdf",
+        "fileSize": "331.4 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:32:25.714Z",
+        "storedFileId": "cert-7-1787124745709.pdf",
+        "storedFileUrl": "/uploads/cert-7-1787124745709.pdf",
+        "storedFileHash": "6f456e29ac5f03b688d197789ee34113a989a9c5ff86895c7d210946596908fb"
       },
       {
         "id": "cert-8",
@@ -88,8 +123,13 @@
         "type": "SDoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "Supplier_s_Declaration_of_Conformity_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "0.9 MB"
+        "fileName": "SDoC · Supplier's Declaration of Conformity — Radio DAB MY24 Eurocargo Variant (EU).pdf",
+        "fileSize": "141.8 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:32:08.416Z",
+        "storedFileId": "cert-8-1787124728410.pdf",
+        "storedFileUrl": "/uploads/cert-8-1787124728410.pdf",
+        "storedFileHash": "7ab4f9fb6441760f37f922e4303aad4c2e2046088a6732bb96427210b6b2d713"
       },
       {
         "id": "cert-9",
@@ -98,8 +138,13 @@
         "type": "CE",
         "issueDate": "2024-02-08",
         "expiryDate": "2029-02-07",
-        "fileName": "CE_Certificate_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — Radio DAB MY24 Eurocargo Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:31:41.504Z",
+        "storedFileId": "cert-9-1787124701497.pdf",
+        "storedFileUrl": "/uploads/cert-9-1787124701497.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-10",
@@ -108,8 +153,13 @@
         "type": "E Mark",
         "issueDate": "2024-02-10",
         "expiryDate": "2029-02-09",
-        "fileName": "E_Mark_Certificate_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — Radio DAB MY24 Eurocargo Variant (UNECE).pdf",
+        "fileSize": "6.5 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:31:22.997Z",
+        "storedFileId": "cert-10-1787124682961.pdf",
+        "storedFileUrl": "/uploads/cert-10-1787124682961.pdf",
+        "storedFileHash": "78bbd5d522cf0b46e231cd4195033115618d6bca270ea7519cfc5c655dc1ad64"
       },
       {
         "id": "cert-11",
@@ -118,8 +168,13 @@
         "type": "RED",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "RED_Certificate_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "RED · RED Certificate — Radio DAB MY24 Eurocargo Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:31:05.870Z",
+        "storedFileId": "cert-11-1787124665848.pdf",
+        "storedFileUrl": "/uploads/cert-11-1787124665848.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-12",
@@ -128,8 +183,13 @@
         "type": "WEEE",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "WEEE_Certificate_Radio_DAB_MY24_Eurocargo_Variant.pdf",
-        "fileSize": "0.5 MB"
+        "fileName": "WEEE · WEEE Certificate — Radio DAB MY24 Eurocargo Variant (EU).pdf",
+        "fileSize": "961.7 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:30:40.433Z",
+        "storedFileId": "cert-12-1787124640425.pdf",
+        "storedFileUrl": "/uploads/cert-12-1787124640425.pdf",
+        "storedFileHash": "9663f8addafba81031b4ab504ee62f9bd8123365419bf8283b6c95b1e8358008"
       }
     ]
   },
@@ -145,8 +205,13 @@
         "type": "EU DoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "EU_Declaration_of_Conformity_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "1.3 MB"
+        "fileName": "EU DoC · EU Declaration of Conformity — Radio DAB MY24 S-Way Variant (EU).pdf",
+        "fileSize": "331.4 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:06:31.989Z",
+        "storedFileId": "cert-13-1787123191982.pdf",
+        "storedFileUrl": "/uploads/cert-13-1787123191982.pdf",
+        "storedFileHash": "6f456e29ac5f03b688d197789ee34113a989a9c5ff86895c7d210946596908fb"
       },
       {
         "id": "cert-14",
@@ -155,8 +220,13 @@
         "type": "SDoC",
         "issueDate": "2024-02-05",
         "expiryDate": "2029-02-04",
-        "fileName": "Supplier_s_Declaration_of_Conformity_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "0.9 MB"
+        "fileName": "SDoC · Supplier's Declaration of Conformity — Radio DAB MY24 S-Way Variant (EU).pdf",
+        "fileSize": "141.8 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:07:06.713Z",
+        "storedFileId": "cert-14-1787123226706.pdf",
+        "storedFileUrl": "/uploads/cert-14-1787123226706.pdf",
+        "storedFileHash": "7ab4f9fb6441760f37f922e4303aad4c2e2046088a6732bb96427210b6b2d713"
       },
       {
         "id": "cert-15",
@@ -165,8 +235,13 @@
         "type": "CE",
         "issueDate": "2024-02-08",
         "expiryDate": "2029-02-07",
-        "fileName": "CE_Certificate_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — Radio DAB MY24 S-Way Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:07:32.129Z",
+        "storedFileId": "cert-15-1787123252121.pdf",
+        "storedFileUrl": "/uploads/cert-15-1787123252121.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-16",
@@ -175,8 +250,13 @@
         "type": "E Mark",
         "issueDate": "2024-02-10",
         "expiryDate": "2029-02-09",
-        "fileName": "E_Mark_Certificate_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — Radio DAB MY24 S-Way Variant (UNECE).pdf",
+        "fileSize": "6.4 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:07:51.249Z",
+        "storedFileId": "cert-16-1787123271233.pdf",
+        "storedFileUrl": "/uploads/cert-16-1787123271233.pdf",
+        "storedFileHash": "d310f1d85ce0126bd65a309081606e266d7d47b48a4c7633295845223443e223"
       },
       {
         "id": "cert-17",
@@ -185,8 +265,13 @@
         "type": "RED",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "RED_Certificate_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "RED · RED Certificate — Radio DAB MY24 S-Way Variant (EU).pdf",
+        "fileSize": "177.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:08:05.451Z",
+        "storedFileId": "cert-17-1787123285443.pdf",
+        "storedFileUrl": "/uploads/cert-17-1787123285443.pdf",
+        "storedFileHash": "9beb59adf35d9e065f4589870d4f1525cc6d413005a1d23c0d1603f3cf132580"
       },
       {
         "id": "cert-18",
@@ -195,8 +280,13 @@
         "type": "WEEE",
         "issueDate": "2024-02-12",
         "expiryDate": "2029-02-11",
-        "fileName": "WEEE_Certificate_Radio_DAB_MY24_S-Way_Variant.pdf",
-        "fileSize": "0.5 MB"
+        "fileName": "WEEE · WEEE Certificate — Radio DAB MY24 S-Way Variant (EU).pdf",
+        "fileSize": "961.7 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:08:22.753Z",
+        "storedFileId": "cert-18-1787123302747.pdf",
+        "storedFileUrl": "/uploads/cert-18-1787123302747.pdf",
+        "storedFileHash": "cfe55c3726d45b6b55eef49251deedb4aeabcb85d0684f5e9968dcea154538ef"
       }
     ]
   },
@@ -339,8 +429,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-06-01",
         "expiryDate": "2028-05-31",
-        "fileName": "Self_Declaration_D715AF_225TR_A7_Device.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration · Self Declaration — D715AF (225TR A7 Device) (Global).pdf",
+        "fileSize": "199.8 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:59:27.707Z",
+        "storedFileId": "cert-27-1787122767701.pdf",
+        "storedFileUrl": "/uploads/cert-27-1787122767701.pdf",
+        "storedFileHash": "ee3871f532c528236bccafe662848f87f8f28d1b05f9fa875d671372fc144573"
       },
       {
         "id": "cert-28",
@@ -349,8 +444,13 @@
         "type": "CE",
         "issueDate": "2023-06-10",
         "expiryDate": "2028-06-09",
-        "fileName": "CE_Certificate_D715AF_Car_Navigation_English.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D715AF Car Navigation (English) (EU).pdf",
+        "fileSize": "561.4 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:59:55.109Z",
+        "storedFileId": "cert-28-1787122795099.pdf",
+        "storedFileUrl": "/uploads/cert-28-1787122795099.pdf",
+        "storedFileHash": "58e1fdf724b472625223ab04da1d1023af5acceff9c7bedc093c134c48e06ef4"
       },
       {
         "id": "cert-29",
@@ -359,8 +459,13 @@
         "type": "Ukraine",
         "issueDate": "2023-06-10",
         "expiryDate": "2028-06-09",
-        "fileName": "CE_Certificate_D715AF_Car_Navigation_Ukrainian.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "Ukraine · CE Certificate — D715AF Car Navigation (Ukrainian) (Ukraine).pdf",
+        "fileSize": "236.0 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T07:00:12.566Z",
+        "storedFileId": "cert-29-1787122812559.pdf",
+        "storedFileUrl": "/uploads/cert-29-1787122812559.pdf",
+        "storedFileHash": "175497d10cddea2fedc4f2008bfc4fe074727d3866b2df068976228a5ae98545"
       }
     ]
   },
@@ -376,8 +481,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-07-01",
         "expiryDate": "2028-06-30",
-        "fileName": "Self_Declaration_D716AF_A7_Device.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration · Self Declaration — D716AF (A7 Device) (Global).pdf",
+        "fileSize": "368.8 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:55:48.731Z",
+        "storedFileId": "cert-30-1787122548725.pdf",
+        "storedFileUrl": "/uploads/cert-30-1787122548725.pdf",
+        "storedFileHash": "6a655f5a1b22d24d565e996e8cfc38bc9ba84145634e15eff9eeb2b71b9fd507"
       },
       {
         "id": "cert-31",
@@ -386,8 +496,13 @@
         "type": "CE",
         "issueDate": "2023-07-10",
         "expiryDate": "2028-07-09",
-        "fileName": "CE_Certificate_D716AF_250_A7_Device.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D716AF 250 (A7 Device) (EU).pdf",
+        "fileSize": "403.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:56:08.037Z",
+        "storedFileId": "cert-31-1787122568029.pdf",
+        "storedFileUrl": "/uploads/cert-31-1787122568029.pdf",
+        "storedFileHash": "291bb9f5abd0c0865a6fa451c47e61ad07ded801410e318f5236659ce48f4e76"
       },
       {
         "id": "cert-32",
@@ -396,8 +511,13 @@
         "type": "E Mark",
         "issueDate": "2023-07-12",
         "expiryDate": "2028-07-11",
-        "fileName": "E_Mark_Certificate_D716AF_A7_Device.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — D716AF (A7 Device) (UNECE).pdf",
+        "fileSize": "795.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:56:24.385Z",
+        "storedFileId": "cert-32-1787122584377.pdf",
+        "storedFileUrl": "/uploads/cert-32-1787122584377.pdf",
+        "storedFileHash": "3330bc25bcdb4fbc275e87ea4946acb68e02d8d53c0292f055881e502e31c174"
       },
       {
         "id": "cert-33",
@@ -406,8 +526,13 @@
         "type": "UKCA",
         "issueDate": "2023-07-15",
         "expiryDate": "2028-07-14",
-        "fileName": "UKCA_Certification_D716AF.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "UKCA · UKCA Certification — D716AF (UK.pdf",
+        "fileSize": "709.8 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:56:43.567Z",
+        "storedFileId": "cert-33-1787122603560.pdf",
+        "storedFileUrl": "/uploads/cert-33-1787122603560.pdf",
+        "storedFileHash": "a7e5c838056973f2370742392c0c5dac7b0aa4b6c535741a4047c3bd34950ad9"
       }
     ]
   },
@@ -423,8 +548,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-08-01",
         "expiryDate": "2028-07-31",
-        "fileName": "Self_Declaration_D719AF_225EU_A7_Device.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration · Self Declaration — D719AF (225EU A7 Device) (Global).pdf",
+        "fileSize": "377.1 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:47:25.772Z",
+        "storedFileId": "cert-34-1787122045766.pdf",
+        "storedFileUrl": "/uploads/cert-34-1787122045766.pdf",
+        "storedFileHash": "f53e300e840e41a9f7cbbf1b0c8e2cc54611bc7bc3b252365135c594ef44e591"
       },
       {
         "id": "cert-35",
@@ -433,8 +563,13 @@
         "type": "CE",
         "issueDate": "2023-08-10",
         "expiryDate": "2028-08-09",
-        "fileName": "CE_Certificate_D719AF_225EU_A7_Device.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D719AF (225EU A7 Device) (EU).pdf",
+        "fileSize": "424.1 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:47:42.955Z",
+        "storedFileId": "cert-35-1787122062947.pdf",
+        "storedFileUrl": "/uploads/cert-35-1787122062947.pdf",
+        "storedFileHash": "9a863d66a73454f673a894a663fe36c603429e43e9f52eb0a6b049981e16db3d"
       },
       {
         "id": "cert-36",
@@ -443,8 +578,13 @@
         "type": "E Mark",
         "issueDate": "2023-08-12",
         "expiryDate": "2028-08-11",
-        "fileName": "E_Mark_Certificate_D719AF_225EU_A7_Device.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — D719AF (225EU A7 Device) (UNECE).pdf",
+        "fileSize": "785.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:48:00.494Z",
+        "storedFileId": "cert-36-1787122080484.pdf",
+        "storedFileUrl": "/uploads/cert-36-1787122080484.pdf",
+        "storedFileHash": "554a7f15fc373510e3114e8eea1be8c37277a8416dfd7fc2babffac2d47fdd88"
       },
       {
         "id": "cert-37",
@@ -453,8 +593,13 @@
         "type": "UKCA",
         "issueDate": "2023-08-15",
         "expiryDate": "2028-08-14",
-        "fileName": "UKCA_Certification_D719AF.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "UKCA · UKCA Certification — D719AF (UK).pdf",
+        "fileSize": "1017.3 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:48:27.037Z",
+        "storedFileId": "cert-37-1787122107028.pdf",
+        "storedFileUrl": "/uploads/cert-37-1787122107028.pdf",
+        "storedFileHash": "595ff4d13d67ac8bf22a574b4f25d3f6e55341ff580ed21ff2a1a298551514de"
       }
     ]
   },
@@ -470,8 +615,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-10-01",
         "expiryDate": "2028-09-30",
-        "fileName": "Self_Declaration_D721AL_A7_Device.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration — D721AL (A7 Device).pdf",
+        "fileSize": "90.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:44:12.065Z",
+        "storedFileId": "cert-38-1787121852044.pdf",
+        "storedFileUrl": "/uploads/cert-38-1787121852044.pdf",
+        "storedFileHash": "a9b903c9c61816a23b515bd6833d15312c9a159fae165d1965a5526d0c5f5ea9"
       },
       {
         "id": "cert-39",
@@ -480,8 +630,13 @@
         "type": "CE",
         "issueDate": "2023-10-10",
         "expiryDate": "2028-10-09",
-        "fileName": "CE_Certificate_D721AL_A7_Device.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D721AL (A7 Device) (EU).pdf",
+        "fileSize": "423.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:44:39.698Z",
+        "storedFileId": "cert-39-1787121879694.pdf",
+        "storedFileUrl": "/uploads/cert-39-1787121879694.pdf",
+        "storedFileHash": "1c832ff601c24362cc61dff510c5ec9b20bf0f85fd10e824fe681c0fbcac687a"
       },
       {
         "id": "cert-40",
@@ -490,8 +645,13 @@
         "type": "E Mark",
         "issueDate": "2023-10-12",
         "expiryDate": "2028-10-11",
-        "fileName": "E_Mark_Certificate_D721AL_A7_Device.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — D721AL (A7 Device) (UNECE).pdf",
+        "fileSize": "795.1 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:45:05.147Z",
+        "storedFileId": "cert-40-1787121905140.pdf",
+        "storedFileUrl": "/uploads/cert-40-1787121905140.pdf",
+        "storedFileHash": "06706c701147d648fca928b51a22e005d336d740793e21e0e753b9a8aae43a2c"
       }
     ]
   },
@@ -507,8 +667,13 @@
         "type": "Self Declaration",
         "issueDate": "2024-03-01",
         "expiryDate": "2029-02-28",
-        "fileName": "Self_Declaration_D723AF_Car_Media_Player_Navigation_System.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration · Self Declaration — D723AF (Car Media Player Navigation System) (Global).pdf",
+        "fileSize": "124.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:37:38.679Z",
+        "storedFileId": "cert-41-1787121458671.pdf",
+        "storedFileUrl": "/uploads/cert-41-1787121458671.pdf",
+        "storedFileHash": "da74f025665bbd9d51c34b2d22798cdd3176c8b591cba1e86a8c5880f5713974"
       },
       {
         "id": "cert-42",
@@ -517,8 +682,13 @@
         "type": "CE",
         "issueDate": "2024-03-10",
         "expiryDate": "2029-03-09",
-        "fileName": "CE_Certificate_D723AF_Car_Media_Player_Navigation_System.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D723AF (Car Media Player Navigation System) (EU).pdf",
+        "fileSize": "671.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:38:21.152Z",
+        "storedFileId": "cert-42-1787121501146.pdf",
+        "storedFileUrl": "/uploads/cert-42-1787121501146.pdf",
+        "storedFileHash": "77143c547e134dc7c51c05b6d6bbdf03568fa7122141af58d62347a583d5469d"
       },
       {
         "id": "cert-43",
@@ -527,8 +697,13 @@
         "type": "E Mark",
         "issueDate": "2024-03-12",
         "expiryDate": "2029-03-11",
-        "fileName": "E_Mark_Certificate_D723AF_Car_Media_Player_Navigation_System.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — D723AF (Car Media Player Navigation System) (UNECE).pdf",
+        "fileSize": "28.5 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T08:23:13.863Z",
+        "storedFileId": "cert-43-1787127793825.pdf",
+        "storedFileUrl": "/uploads/cert-43-1787127793825.pdf",
+        "storedFileHash": "5d3ae36806ab35511ba19e119c5ee78a055d60fcde240b81bc20fad8c9c68021"
       },
       {
         "id": "cert-44",
@@ -537,8 +712,13 @@
         "type": "UKCA",
         "issueDate": "2024-03-15",
         "expiryDate": "2029-03-14",
-        "fileName": "UKCA_Declaration_D723AF_EMC.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "UKCA · UKCA Declaration — D723AF (EMC) (UK).pdf",
+        "fileSize": "1.1 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:40:22.725Z",
+        "storedFileId": "cert-44-1787121622717.pdf",
+        "storedFileUrl": "/uploads/cert-44-1787121622717.pdf",
+        "storedFileHash": "e3eee09526d92fa4166795e4e242948646efd32a52322d093822ab0bd05e5077"
       },
       {
         "id": "cert-45",
@@ -547,8 +727,13 @@
         "type": "UKCA",
         "issueDate": "2024-03-15",
         "expiryDate": "2029-03-14",
-        "fileName": "UKCA_Declaration_D723AF_RED.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "UKCA · UKCA Declaration — D723AF (RED) (UK).pdf",
+        "fileSize": "1.1 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:40:47.927Z",
+        "storedFileId": "cert-45-1787121647917.pdf",
+        "storedFileUrl": "/uploads/cert-45-1787121647917.pdf",
+        "storedFileHash": "6f671a720eec353e1cb395a452ffb11de99e77c935755a21f91481ccbd060dc4"
       }
     ]
   },
@@ -564,8 +749,13 @@
         "type": "CE",
         "issueDate": "2023-04-10",
         "expiryDate": "2028-04-09",
-        "fileName": "CE_Certificate_D001SF_Smart_Audio_Device.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — D001SF (Smart Audio Device) (EU).pdf",
+        "fileSize": "425.4 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:34:03.127Z",
+        "storedFileId": "cert-46-1787121243121.pdf",
+        "storedFileUrl": "/uploads/cert-46-1787121243121.pdf",
+        "storedFileHash": "9af3f047b2e3e7e4744ea5cde6129f5a10f2fd871326d7a0a1e2e7fa0df2213d"
       },
       {
         "id": "cert-47",
@@ -574,8 +764,13 @@
         "type": "SII",
         "issueDate": "2023-04-15",
         "expiryDate": "2028-04-14",
-        "fileName": "SII_Certificate_D001SF_Smart_Audio_Device.pdf",
-        "fileSize": "0.9 MB"
+        "fileName": "SII · SII Certificate — D001SF (Smart Audio Device) (Israel).pdf",
+        "fileSize": "2.2 MB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:34:26.035Z",
+        "storedFileId": "cert-47-1787121266025.pdf",
+        "storedFileUrl": "/uploads/cert-47-1787121266025.pdf",
+        "storedFileHash": "1816c22b76e0c560517952678effda551f6e854866ad228fdf492880224d3558"
       },
       {
         "id": "cert-48",
@@ -584,8 +779,13 @@
         "type": "E Mark",
         "issueDate": "2023-04-12",
         "expiryDate": "2028-04-11",
-        "fileName": "E_Mark_Certificate_D001SF_Smart_Audio_Device.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — D001SF (Smart Audio Device) (UNECE).pdf",
+        "fileSize": "794.9 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:34:49.462Z",
+        "storedFileId": "cert-48-1787121289450.pdf",
+        "storedFileUrl": "/uploads/cert-48-1787121289450.pdf",
+        "storedFileHash": "1960cc006588ce2467ab283912caa2aaac7e431e30754cdfbfcaf0eb7c31e163"
       },
       {
         "id": "cert-49",
@@ -594,8 +794,13 @@
         "type": "UKCA",
         "issueDate": "2023-04-18",
         "expiryDate": "2028-04-17",
-        "fileName": "UKCA_Certification_D001SF.pdf",
-        "fileSize": "1.0 MB"
+        "fileName": "UKCA · UKCA Certification — D001SF (UK).pdf",
+        "fileSize": "411.5 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:35:13.533Z",
+        "storedFileId": "cert-49-1787121313523.pdf",
+        "storedFileUrl": "/uploads/cert-49-1787121313523.pdf",
+        "storedFileHash": "4a4c9837504d3e43350dd05ecc3795968e6dd2c4912a93a7103ee95030522adb"
       }
     ]
   },
@@ -611,8 +816,13 @@
         "type": "Self Declaration",
         "issueDate": "2023-05-01",
         "expiryDate": "2028-04-30",
-        "fileName": "Self_Declaration_846DAB_Audio.pdf",
-        "fileSize": "0.7 MB"
+        "fileName": "Self Declaration · Self Declaration — 846DAB Audio (Global).pdf",
+        "fileSize": "357.1 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:31:58.143Z",
+        "storedFileId": "cert-50-1787121118135.pdf",
+        "storedFileUrl": "/uploads/cert-50-1787121118135.pdf",
+        "storedFileHash": "3ea5cff26fb7fe0c2d02de81b0752f33e6f0d618670e3b88a51e94e8cd3c9db7"
       },
       {
         "id": "cert-51",
@@ -621,8 +831,13 @@
         "type": "CE",
         "issueDate": "2023-05-10",
         "expiryDate": "2028-05-09",
-        "fileName": "CE_Certificate_846DAB_Audio.pdf",
-        "fileSize": "1.1 MB"
+        "fileName": "CE · CE Certificate — 846DAB Audio (EU).pdf",
+        "fileSize": "422.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:31:29.376Z",
+        "storedFileId": "cert-51-1787121089365.pdf",
+        "storedFileUrl": "/uploads/cert-51-1787121089365.pdf",
+        "storedFileHash": "4f5563aae85b803d84541350f205216352d20c8b21fd817a492a005725fb2ecc"
       },
       {
         "id": "cert-52",
@@ -631,8 +846,13 @@
         "type": "E Mark",
         "issueDate": "2023-05-12",
         "expiryDate": "2028-05-11",
-        "fileName": "E_Mark_Certificate_846DAB_Audio.pdf",
-        "fileSize": "0.8 MB"
+        "fileName": "E Mark · E Mark Certificate — 846DAB Audio (UNECE).pdf",
+        "fileSize": "797.6 KB",
+        "mimeType": "application/pdf",
+        "uploadedAt": "2026-08-19T06:30:45.921Z",
+        "storedFileId": "cert-52-1787121045914.pdf",
+        "storedFileUrl": "/uploads/cert-52-1787121045914.pdf",
+        "storedFileHash": "233d64244b35aa18f97c454d18614771cfdaf8de5a6e571601c5459ea692301e"
       }
     ]
   },

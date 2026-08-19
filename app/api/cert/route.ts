@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { addCertificateAction, removeCertificateAction } from '@/lib/server/actions'
+import { addCertificateAction, removeCertificateAction } from '@/lib/server'
 
 export async function POST(req: Request) {
   try {

@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { fetchProductsAction, addProductAction, removeProductAction } from '@/lib/server/actions'
+import { fetchProductsAction, addProductAction, removeProductAction } from '@/lib/server'
 
 export async function GET() {
   try {

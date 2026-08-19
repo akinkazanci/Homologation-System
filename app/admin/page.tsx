@@ -1,6 +1,6 @@
-import { AdminDashboard } from "@/components/admin-dashboard"
-import { SiteFooter } from "@/components/site-footer"
-import { SiteHeader } from "@/components/site-header"
+import { AdminDashboard } from "@/components/admin-dashboard/AdminDashboard"
+import { SiteFooter } from "@/components/site-footer/SiteFooter"
+import { SiteHeader } from "@/components/site-header/SiteHeader"
 
 export const metadata = {
   title: "Admin — Daiichi Infotainment Systems",

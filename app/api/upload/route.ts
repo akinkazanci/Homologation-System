@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { uploadCertificateFileAction } from '@/lib/server/actions'
+import { uploadCertificateFileAction } from '@/lib/server'
 
 export async function POST(req: Request) {
   try {

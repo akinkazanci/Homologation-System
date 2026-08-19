@@ -1,7 +1,7 @@
-import { HeroBanner } from "@/components/hero-banner"
-import { HomologationBrowser } from "@/components/homologation-browser"
-import { SiteFooter } from "@/components/site-footer"
-import { SiteHeader } from "@/components/site-header"
+import { HeroBanner } from "@/components/hero-banner/HeroBanner"
+import { ProductBrowser } from "@/components/product-browser/ProductBrowser"
+import { SiteFooter } from "@/components/site-footer/SiteFooter"
+import { SiteHeader } from "@/components/site-header/SiteHeader"
 
 export default function Page() {
   return (
@@ -9,7 +9,7 @@ export default function Page() {
       <SiteHeader />
       <main className="flex-1">
         <HeroBanner />
-        <HomologationBrowser />
+        <ProductBrowser />
       </main>
       <SiteFooter />
     </div>
